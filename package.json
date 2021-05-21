@@ -1,5 +1,5 @@
 {
-  "name": "rn-swipe-button-udaysravank-old",
+  "name": "rn-swipe-button",
   "version": "1.2.8",
   "description": "react native swipe/slide button component",
   "main": "index.js",
@@ -16,7 +16,6 @@
     "react-native-swipe-button",
     "swipe-button",
     "rn-swipe-button",
-    "rn-swipe-button-udaysravank-old",
     "swipeable-button",
     "swipeable",
     "swipe",
